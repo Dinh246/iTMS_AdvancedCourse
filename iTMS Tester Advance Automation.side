@@ -10,7 +10,7 @@
       "id": "e9f5453c-e2fb-40bf-bd8c-08d17e863389",
       "comment": "",
       "command": "open",
-      "target": "/practice-form.html",
+      "target": "http://www.practiceselenium.com/practice-form.html",
       "targets": [],
       "value": ""
     }, {
